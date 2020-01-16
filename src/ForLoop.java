@@ -1,7 +1,7 @@
 public class ForLoop {
 
 	public static void main(String[] args) {
-		System.out.println("ok we star t the program");
+		System.out.println("ok we start the program");
 
 		for( int k=1; k<=2;k++) {
 			
